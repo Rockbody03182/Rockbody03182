@@ -1,5 +1,15 @@
-<!-- ![reversal](https://capsule-render.vercel.app/api?type=slice&text=Hello&height=200&fontAlign=50&fontAlignY=37&fontSize=30&desc=I'm%20WON%20YONG&descAlign=70&descAlignY=37&rotate=14&theme=radical&animation=fadeIn) -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Jade's%20github&fontSize=90&fontAlignY=50)
+
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRockbody03182%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gasina85)](https://solved.ac/gasina85)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockbody03182&layout=compact"><br><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Rockbody03182&show_icons=true"> -->
+
+</div>
 
 # <div align="center">**Tech Stack**</div>
 </br>
@@ -12,6 +22,7 @@
     <img src="https://img.shields.io/badge/JAVASCRIPT-EED82B?style=flat&logo=JAVASCRIPT&logoColor=white"/>
     <img src="https://img.shields.io/badge/JQuery-146CA9?style=flat&logo=JQuery&logoColor=white"/>
     </br>
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
     <!-- </br> -->
@@ -20,6 +31,7 @@
     </br>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
 </br>
 </br>
@@ -46,7 +58,8 @@
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 <div>
-
+</br>
+</br>
 
 <!--
 **Rockbody03182/Rockbody03182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
